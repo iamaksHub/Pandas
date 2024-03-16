@@ -1,7 +1,7 @@
 
 Task 1 -Questions
 
-1.find ou how many male and female passengers was onboarded.
+1.find ou how many male and female passengers was onboarded./n
 2.how many survived we have
 3.how many casuality we have(count of 0 in survived column)
 4.what is name of a person who is the eldest one.(age)
