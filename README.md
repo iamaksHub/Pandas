@@ -15,8 +15,7 @@ Source file=https://raw.githubusercontent.com/datasciencedojo/datasets/master/ti
 
 
 Task 2-Questions
-Source file= https://archive.ics.uci.edu/dataset/222/bank+marketing
-        ->reach out to above link and read file bank.csv
+Source file= ->reach out to  https://archive.ics.uci.edu/dataset/222/bank+marketing ,download dataset from there and read bank.csv file for execution
         
 1.how many campaign available in this dataset(extract distinct campaigns ,use set)                                                                                                       
 2.how many users do we have with housing and personal loan                                                                                                                                 
