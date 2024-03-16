@@ -1,5 +1,6 @@
 
 Task 1 -Questions
+Source file=https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv
 
 1.find ou how many male and female passengers was onboarded.                                                                                                                       
 2.how many survived we have                                                                                                                                            
@@ -14,7 +15,9 @@ Task 1 -Questions
 
 
 Task 2-Questions
-
+Source file= https://archive.ics.uci.edu/dataset/222/bank+marketing
+        ->reach out to above link and read file bank.csv
+        
 1.how many campaign available in this dataset(extract distinct campaigns ,use set)                                                                                                       
 2.how many users do we have with housing and personal loan                                                                                                                                 
 3.how many persons do we have whose age is 60+.
